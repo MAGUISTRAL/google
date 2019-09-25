@@ -1,18 +1,20 @@
 
 
 .nav{text-align: right;}
+.nav1{color:black}
 .main1{text-align: center;}
 
 .main2{text-align: center;}
+.main2a{color: black;}
 .main2a:nth-child(1){border: 1px solid white;
                       border-radius: 10px;
-                      background-color: grey;
+                      background-color: #E6E6E6;
                       opacity: 0.4;
                       padding: 14px;}
 
 .main2a:nth-child(2){border: 1px solid white;
                       border-radius: 10px;
-                      background-color: grey;
+                      background-color: #E6E6E6;
                       opacity: 0.4;
                       padding: 14px;}
 
@@ -20,18 +22,19 @@
 
 .footer1{color: black;
          width: 100%;
-         border: 1px solid white;
-         background-color: grey;
+         border: 0.5px solid grey;
+         background-color: #E6E6E6;
          opacity: 0.4;
          padding: 14px;
          text-align: justify;}
 
 .footer2{display: flex;
-         border: 1px solid white;
-         background-color: grey;
+
+         border: 0.5px solid grey;
+         background-color: #E6E6E6;
          opacity: 0.4;
          padding: 14px;}
-.footer2a{margin:auto;}
+.footer2a{margin:auto;color: black;}
 
 .footer2a:nth-child(4)
 {width: 30%}

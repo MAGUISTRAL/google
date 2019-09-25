@@ -1,9 +1,24 @@
-.type1
-{
-    color: blue;
-}
 
-#logo
-{
-    color: red;
-}
+
+.nav{text-align: right;}
+.main1{text-align: center;}
+
+.main2{display: flex;
+      justify-content: center;}
+.main3{text-align: center;}
+
+.footer1{color: black;
+         width: 100%;
+         border: 1px solid black;
+         background-color: grey;
+         opacity: 0.4;
+         padding: 12px;
+         text-align: justify;}
+
+.footer2a{display: flex;
+          justify-content: left;
+          align-items: center;}
+
+.footer2b{display: flex;
+          justify-content: center;
+          width: inherit;}
